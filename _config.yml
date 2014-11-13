@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Artemi Krymski
 tagline:          'Entrepreneur + Developer'
 description:      'Entrepreneur & Software Developer'
-url:              http://hyde.getpoole.com
+url:              http://krymski.com
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/akrymski/akrymski.github.io
