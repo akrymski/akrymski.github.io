@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Artemi Krymski
+tagline:          'Entrepreneur + Developer'
+description:      'Entrepreneur & Software Developer'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Artemi Krymski'
+  url:            https://twitter.com/krymski
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde

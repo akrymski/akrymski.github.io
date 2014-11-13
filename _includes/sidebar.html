@@ -1,0 +1,28 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+
+      <a id="e" class="sidebar-nav-item" href="x@y.com">Email</a>
+      <a class="sidebar-nav-item" href="http://github.com/akrymski">Github</a>
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/ak102">LinkedIn</a>
+      <a class="sidebar-nav-item" href="http://facebook.com/krymski">Facebook</a>
+      <a class="sidebar-nav-item" href="http://twitter.com/krymski">Twitter</a>
+      <a class="sidebar-nav-item" href="https://www.quora.com/Artemi-Krymski">Quora</a>
+      <script>
+      var x = 'artemi', y = 'krymski';
+      document.getElementById('e').setAttribute('href', 'mailto:' + x + '@' + y + '.com');
+      </script>
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Artemi Krymski</title>
+ <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://hyde.getpoole.com/"/>
+ <updated>2014-11-13T20:06:49+00:00</updated>
+ <id>http://hyde.getpoole.com</id>
+ <author>
+   <name>Artemi Krymski</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
