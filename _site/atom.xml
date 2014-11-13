@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Artemi Krymski</title>
- <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
- <link href="http://hyde.getpoole.com/"/>
- <updated>2014-11-13T20:12:22+00:00</updated>
- <id>http://hyde.getpoole.com</id>
+ <link href="http://krymski.com/atom.xml" rel="self"/>
+ <link href="http://krymski.com/"/>
+ <updated>2014-11-13T20:17:01+00:00</updated>
+ <id>http://krymski.com</id>
  <author>
    <name>Artemi Krymski</name>
    <email></email>
