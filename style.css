@@ -134,8 +134,14 @@ a.symbol:before {
 
 .social { padding-top: 25px; }
 .social a {
-    font-size: 50px;
+    font-size: 44px;
     margin: 5px;
+    color: #FBE3C4;
+    opacity: 0.6;
+    line-height: 44px;
+}
+.social a:hover {
+    opacity: 1;
     color: #FBE3C4;
 }
 
@@ -161,6 +167,7 @@ a.symbol:before {
 
 #main-title, #main-subtitle {
     color: #FBE3C4;
+    cursor: default;
 }
 
 #main-nav a, .button {
